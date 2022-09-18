@@ -1,2 +1,5 @@
-CHAN, Wai Chun 20612483
+Name: CHAN, Wai Chun 
+
+ID: 20612483
+
 ![image](image.png)
