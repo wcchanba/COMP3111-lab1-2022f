@@ -12,7 +12,7 @@ ID: 20612483
 | 20777788   | LAU, Sin Yee   | sylauam@connect.ust.hk  | INPUT         | sylauam   |           |
 | 20763086   | WONG, Ka Yiu   | kywongcb@connect.ust.hk | PROCESS       | cvbhuj117 |           |
 
-```markdown
+
 |              Stage | Direct Products | ATP Yields |
 | -----------------: | --------------: | ---------: |
 |         Glycolysis |          2 ATP              ||
@@ -22,4 +22,3 @@ ID: 20612483
 | ^^                 |          6 NADH |     15 ATP |
 | ^^                 |          2 FADH |      3 ATP |
 |                               30--32 ATP        |||
-```
